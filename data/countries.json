@@ -1539,6 +1539,66 @@
     "name": "United Kingdom",
     "status": "assigned"
   },
+    {
+    "alpha2": "GB-WLS",
+    "alpha3": "WALES",
+    "countryCallingCodes": [
+      "+44"
+    ],
+    "currencies": [
+      "GBP"
+    ],
+    "ioc": "GBR",
+    "languages": [
+      "eng",
+      "cor",
+      "gle",
+      "gla",
+      "cym"
+    ],
+    "name": "Wales",
+    "status": "region"
+  },
+      {
+    "alpha2": "GB-SCT",
+    "alpha3": "SCOTLAND",
+    "countryCallingCodes": [
+      "+44"
+    ],
+    "currencies": [
+      "GBP"
+    ],
+    "ioc": "GBR",
+    "languages": [
+      "eng",
+      "cor",
+      "gle",
+      "gla",
+      "cym"
+    ],
+    "name": "Scotland",
+    "status": "region"
+  },
+  {
+    "alpha2": "GB-ENG",
+    "alpha3": "ENGLAND",
+    "countryCallingCodes": [
+      "+44"
+    ],
+    "currencies": [
+      "GBP"
+    ],
+    "ioc": "GBR",
+    "languages": [
+      "eng",
+      "cor",
+      "gle",
+      "gla",
+      "cym"
+    ],
+    "name": "England",
+    "status": "region"
+  },
   {
     "alpha2": "GD",
     "alpha3": "GRD",
