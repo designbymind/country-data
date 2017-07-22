@@ -3175,6 +3175,26 @@
     "status": "region"
   },
   {
+    "alpha2": "LGTB",
+    "alpha3": "LGTB",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Gay",
+    "status": "region"
+  },
+  {
+    "alpha2": "LGTB",
+    "alpha3": "LGTB",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Lgtb",
+    "status": "region"
+  },
+  {
     "alpha2": "NI",
     "alpha3": "NIC",
     "countryCallingCodes": [
