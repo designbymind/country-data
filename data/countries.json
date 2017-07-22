@@ -3165,6 +3165,16 @@
     "status": "deleted"
   },
   {
+    "alpha2": "HH",
+    "alpha3": "NAZ",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Nazi",
+    "status": "deleted"
+  },
+  {
     "alpha2": "NI",
     "alpha3": "NIC",
     "countryCallingCodes": [
