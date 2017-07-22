@@ -3175,6 +3175,16 @@
     "status": "region"
   },
   {
+    "alpha2": "USSR",
+    "alpha3": "USSR",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "USSR",
+    "status": "region"
+  },
+  {
     "alpha2": "NI",
     "alpha3": "NIC",
     "countryCallingCodes": [
