@@ -4499,6 +4499,39 @@
     "status": "assigned"
   },
   {
+    "alpha2": "US",
+    "alpha3": "USA",
+    "countryCallingCodes": [
+      "+1"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "emoji": "🇺🇸",
+    "ioc": "USA",
+    "languages": [
+      "eng"
+    ],
+    "name": "USA",
+    "status": "assigned"
+  },
+  {
+    "alpha2": "US",
+    "alpha3": "USA",
+    "countryCallingCodes": [
+      "+1"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "emoji": "🇺🇸",
+    "ioc": "USA",
+    "languages": [
+      "eng"
+    ],
+    "status": "assigned"
+  },
+  {
     "alpha2": "UY",
     "alpha3": "URY",
     "countryCallingCodes": [
