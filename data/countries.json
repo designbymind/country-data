@@ -4062,6 +4062,21 @@
     "status": "region"
   },
   {
+    "alpha2": "SU",
+    "alpha3": "",
+    "countryCallingCodes": [],
+    "currencies": [
+      "RUB"
+    ],
+    "emoji": "",
+    "ioc": "",
+    "languages": [
+      "rus"
+    ],
+    "name": "Soviet Union",
+    "status": "region"
+  },
+  {
     "alpha2": "SV",
     "alpha3": "SLV",
     "countryCallingCodes": [
